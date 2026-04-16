@@ -74,30 +74,7 @@ python main.py
 
 ## Interface overview
 
-```
-┌─ ⏱ NTP Time Sync ──────────────────────────── 🔑 Admin  ☀/🌙  ⬛Tray ─┐
-│                                                                          │
-│  Active Servers          │   14:32:15.847293                             │
-│  ──────────────────      │   Wednesday, April 16, 2026                  │
-│  🟢 pool.ntp.org         │   UTC+03:00  (MSK)                           │
-│     +23.14 µs  12.4 ms S1│                                              │
-│  🟢 time.google.com      │  ┌ Offset: +23.14 µs ┬ Accuracy: ±6.2 ms ┬ │
-│     +21.80 µs   8.2 ms S1│  │                   │  Servers: 5/5      │ │
-│  🟡 time.cloudflare.com  │  └───────────────────┴────────────────────┘ │
-│     +45.00 µs  45.1 ms S3│                                              │
-│  🟢 time.windows.com     │  [ 🔄  Sync Now                           ]  │
-│     +19.30 µs  15.3 ms S1│  Auto-sync  ●  Interval  [ 5 minutes ▼ ]    │
-│  🟢 time.apple.com       │  Next sync: 4m 23s                           │
-│     +25.10 µs  18.7 ms S1│  Last sync: 14:27:15                         │
-│                          │                                              │
-│  [ hostname… ] [+]       │                                              │
-│  [ Browse Catalog…     ] │                                              │
-├──────────────────────────────────────────────────────────────────────────┤
-│  Sync Log                                                       [Clear] │
-│  [14:27:15.312]  ✓  System time corrected  offset +23 µs (+0.0231 ms)  │
-│  [14:22:15.198]  ✓  System time corrected  offset -12 µs (-0.0118 ms)  │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+<img width="1024" height="733" alt="image" src="https://github.com/user-attachments/assets/9f52d49d-ab7b-483d-b8ca-d245a425d7e9" />
 
 ---
 
